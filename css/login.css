@@ -1,0 +1,32 @@
+.nav-item{
+  font-weight: bold;
+  color:white;
+  
+}
+nav{
+   background-color: #385366;
+   border: white;
+   border-style: groove;
+}
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+    color: white;
+    background-color: #000c1277;
+    border-color:#02121ac7;
+  
+}
+.col-md-7 {
+         margin: 76px;
+    -ms-flex: 0 0 58.333333%;
+    flex: 0 0 58.333333%;
+    max-width: 58.333333%;
+    background-image: url(C:/Users/chava/Downloads/gradient-g300f61d2f_1920.jpg);
+    font-size: 15px;
+    border-color:#02121ac7;
+    border-style: groove;
+}
+
+body{
+   background : #000 url("C:/Users/chava/Downloads/pexels-johannes-plenio-1103970.jpg")  no-repeat center;
+
+}
